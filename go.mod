@@ -1,3 +1,3 @@
-module example/hello
+module TestingWithGo
 
 go 1.24.2
